@@ -7,10 +7,11 @@ cd testgit
 touch test1 test2
 git init - goto the path where you want to store your file in git repository 
 git status
-git add .
-git status
-git commit -m "git elated command"
-git log
-git remote add origin https://github.com/tabarik/tapas_comparision
- git push -u origin main
+1. git add .
+2.git commit -m "git elated command"
+3.git log
+4.git status
+5. git remote add origin https://github.com/tabarik/tapas_comparision
+6. git push -u origin main
+
 
